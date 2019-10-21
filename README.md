@@ -1,1 +1,1 @@
-# r-news-task
+Roya News Task For Desktop & Mobile
